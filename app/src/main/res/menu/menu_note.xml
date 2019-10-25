@@ -19,5 +19,5 @@
         android:icon="@android:drawable/ic_menu_send"
         android:orderInCategory="102"
         android:title="Send as email"
-        app:showAsAction="always" />
+        app:showAsAction="ifRoom" />
 </menu>
